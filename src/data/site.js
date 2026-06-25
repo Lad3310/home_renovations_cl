@@ -43,7 +43,7 @@ export const images = {
   custom:
     "https://images.unsplash.com/photo-1581244277943-fe4a9c777189?auto=format&fit=crop&w=900&q=80",
   owner:
-    "https://images.unsplash.com/photo-1723902499942-fba2e1367529?auto=format&fit=crop&w=1100&q=80",
+    "https://images.unsplash.com/photo-1549923746-c502d488b3ea?auto=format&fit=crop&w=1100&q=80",
   flooring:
     "https://images.unsplash.com/photo-1581858726788-75bc0f6a952d?auto=format&fit=crop&w=900&q=80",
   trim:
