@@ -29,7 +29,7 @@ export const navLinks = [
 // Remodeling / renovation photos used as replaceable placeholders.
 // Swap these paths for your own /images/*.jpg files when ready.
 export const images = {
-  hero: "https://images.unsplash.com/photo-1556911220-bff31c812dba?auto=format&fit=crop&w=1400&q=80",
+  hero: "https://images.unsplash.com/photo-1638799869566-b17fa794c4de?auto=format&fit=crop&w=1600&q=80",
   kitchen:
     "https://images.unsplash.com/photo-1556909212-d5b604d0c90d?auto=format&fit=crop&w=900&q=80",
   bathroom:
@@ -43,7 +43,7 @@ export const images = {
   custom:
     "https://images.unsplash.com/photo-1581244277943-fe4a9c777189?auto=format&fit=crop&w=900&q=80",
   owner:
-    "https://images.unsplash.com/photo-1521791136064-7986c2920216?auto=format&fit=crop&w=1100&q=80",
+    "https://images.unsplash.com/photo-1723902499942-fba2e1367529?auto=format&fit=crop&w=1100&q=80",
   flooring:
     "https://images.unsplash.com/photo-1581858726788-75bc0f6a952d?auto=format&fit=crop&w=900&q=80",
   trim:
